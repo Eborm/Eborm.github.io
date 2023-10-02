@@ -23,10 +23,14 @@
 }
 
 .Projects{
+    transform: translateY(-33%);
     cursor: pointer;
 }
 
 .Plang{
     transform: translateY(-50%);
     visibility: hidden;
+}
+.Github{
+    transform: translateX(-80%);
 }
