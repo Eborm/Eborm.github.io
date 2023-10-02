@@ -13,3 +13,19 @@
     transform: translate(30%, 100%);
     align-self: center;
 }
+
+.Drop_DownP{
+    transform: translateX(90%);
+}
+.DropDownIcon{
+    transform: translate(90px, -30px);
+}
+
+.Projects{
+    cursor: pointer;
+}
+
+.Plang{
+    transform: translateY(-50%);
+    visibility: hidden;
+}
