@@ -15,7 +15,8 @@
 }
 
 .Drop_DownP{
-    transform: translateX(90%);
+    transform: translateX(1400px);
+    width: 8%;
 }
 .DropDownIcon{
     transform: translate(90px, -30px);
