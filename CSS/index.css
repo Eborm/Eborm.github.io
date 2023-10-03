@@ -20,6 +20,7 @@
 }
 .DropDownIcon{
     transform: translate(90px, -30px);
+    visibility: visible;
     transition: visibility 0s, opacity 0.5s;
 }
 
@@ -39,5 +40,6 @@
 
 .Up{
     transform: translate(283%, -140%);
+    visibility: hidden;
     transition: visibility 0s, opacity 0.5s;
 }
