@@ -20,6 +20,7 @@
 }
 .DropDownIcon{
     transform: translate(90px, -30px);
+    transition: visibility 0s, opacity 0.5s;
 }
 
 .Projects{
@@ -30,7 +31,13 @@
 .Plang{
     transform: translateY(-50%);
     visibility: hidden;
+    transition: visibility 0s, opacity 0.5s;
 }
 .Github{
     transform: translateX(-80%);
+}
+
+.Up{
+    transform: translate(283%, -140%);
+    transition: visibility 0s, opacity 0.5s;
 }
