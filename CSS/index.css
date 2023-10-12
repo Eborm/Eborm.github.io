@@ -15,21 +15,26 @@
 }
 
 .Drop_DownP{
+    background-color: transparent;
     transform: translateX(1120%);
     width: 8%;
 }
 .DropDownIcon{
+    background-color: transparent;
     transform: translate(90px, -30px);
     visibility: visible;
     transition: visibility 0s, opacity 0.5s;
 }
 
 .Projects{
+    background-color: transparent;
     transform: translateY(-33%);
     cursor: pointer;
+    backdrop-filter: blur(10px);
 }
 
 .Plang{
+    background-color: transparent;
     transform: translateY(-50%);
     visibility: hidden;
     transition: visibility 0s, opacity 0.5s;
@@ -39,6 +44,7 @@
 }
 
 .Up{
+    background-color: transparent;
     transform: translate(283%, -140%);
     visibility: hidden;
     transition: visibility 0s, opacity 0.5s;
